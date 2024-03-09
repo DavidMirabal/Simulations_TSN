@@ -8,3 +8,5 @@
 *	**Exercise3_halos.py**: Halo mass function
 *	**generator.py**: To create images for a video
 *	**image_to_video.py**: To convert images to a video
+*	**gen_ic.py**: To generate initial conditions of the collapsing sphere (pseudo uniform)
+*	**gen_ic_equi.py**: To generate initial conditions of the collapsing sphere (grid)
